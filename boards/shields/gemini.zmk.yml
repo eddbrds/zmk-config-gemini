@@ -1,0 +1,13 @@
+file_format: '1'
+id: gemini
+name: Gemini
+type: shield
+url: https://github.com/eddbrds/gemini
+requires: [nice_nano]
+features:
+  - keys
+  - bluetooth
+  - usb
+siblings:
+  - gemini_left
+  - gemini_right
